@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env*.local
+data/subscribers.local.json
+.DS_Store
+
+# python-services/
+__pycache__/
+*.pyc
+.venv/
+venv/
+python-services/newsletter-service/subscribers.db

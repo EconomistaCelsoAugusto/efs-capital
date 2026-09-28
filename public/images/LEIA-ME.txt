@@ -1,0 +1,9 @@
+Coloque aqui a imagem de destaque da Home com o nome exato:
+
+    destaque-principal.jpg
+
+(pode ser .jpg, .png ou .webp — só ajuste a extensão em
+components/home/hero-section.tsx, na linha do src="/images/...")
+
+Até colocar o arquivo, o espaço da imagem aparece só com o fundo
+azul-marinho.

@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    @apply bg-paper text-graphite-900 font-sans;
+  }
+
+  ::selection {
+    @apply bg-gold-300/40;
+  }
+}
+
+@layer components {
+  /* Reading column for article prose — line length capped per typographic
+     best practice, serif body gets extra line-height for comfort. */
+  .prose-article {
+    @apply max-w-prose font-serif text-[1.125rem] leading-[1.8] text-graphite-900;
+  }
+
+  .prose-article p {
+    @apply mb-6;
+  }
+
+  .prose-article h2 {
+    @apply font-serif text-2xl text-navy-900 mt-10 mb-4;
+  }
+
+  .prose-article blockquote {
+    @apply border-l-2 border-gold-500 pl-5 italic text-graphite-700 my-8;
+  }
+}
