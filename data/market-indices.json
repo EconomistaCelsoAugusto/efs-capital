@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-09-28T22:00:58.724696+00:00",
+  "updatedAt": "2026-10-26T23:13:46.708159+00:00",
   "indices": [
     {
       "symbol": "IBOV",
       "name": "Ibovespa",
-      "value": "182.991,1",
-      "changePct": -0.26
+      "value": "176.608,2",
+      "changePct": -14.13
     },
     {
       "symbol": "S&P 500",
       "name": "S&P 500",
-      "value": "7.683,7",
-      "changePct": -0.77
+      "value": "7.676,8",
+      "changePct": 0.71
     },
     {
       "symbol": "NASDAQ",
       "name": "Nasdaq Composite",
-      "value": "26.820,4",
-      "changePct": -0.92
+      "value": "26.169,4",
+      "changePct": 0.83
     },
     {
       "symbol": "DOW",
       "name": "Dow Jones",
-      "value": "51.481,5",
-      "changePct": -0.67
+      "value": "52.361,6",
+      "changePct": 0.29
     },
     {
       "symbol": "DAX",
       "name": "DAX",
-      "value": "25.374,4",
-      "changePct": -0.13
+      "value": "25.410,8",
+      "changePct": 1.03
     },
     {
       "symbol": "FTSE 100",
       "name": "FTSE 100",
-      "value": "10.684,9",
-      "changePct": -0.1
+      "value": "10.767,3",
+      "changePct": 0.91
     },
     {
       "symbol": "NIKKEI",
       "name": "Nikkei 225",
-      "value": "65.877,6",
-      "changePct": -0.74
+      "value": "62.189,7",
+      "changePct": -0.86
     },
     {
       "symbol": "USD/BRL",
       "name": "Dólar",
-      "value": "5,19",
-      "changePct": 0.06
+      "value": "5,37",
+      "changePct": 8.18
     }
   ]
 }
