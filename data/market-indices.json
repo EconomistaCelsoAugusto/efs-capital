@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:04:46.627650+00:00",
+  "updatedAt": "2026-11-03T02:53:46.383292+00:00",
   "indices": [
     {
       "symbol": "IBOV",
@@ -16,7 +16,7 @@
     {
       "symbol": "NASDAQ",
       "name": "Nasdaq Composite",
-      "value": "25.164,3",
+      "value": "25.164,4",
       "changePct": -1.09
     },
     {
@@ -47,7 +47,7 @@
       "symbol": "USD/BRL",
       "name": "Dólar",
       "value": "5,44",
-      "changePct": -0.06
+      "changePct": 0.0
     }
   ]
 }
