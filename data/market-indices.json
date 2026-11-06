@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-06T18:40:54.870848+00:00",
+  "updatedAt": "2026-11-06T23:30:49.666502+00:00",
   "indices": [
     {
       "symbol": "IBOV",
       "name": "Ibovespa",
-      "value": "168.534,3",
-      "changePct": 1.13
+      "value": "168.498,5",
+      "changePct": 1.11
     },
     {
       "symbol": "S&P 500",
       "name": "S&P 500",
-      "value": "7.402,8",
-      "changePct": 0.63
+      "value": "7.376,9",
+      "changePct": 0.27
     },
     {
       "symbol": "NASDAQ",
       "name": "Nasdaq Composite",
-      "value": "24.635,9",
-      "changePct": 1.27
+      "value": "24.579,4",
+      "changePct": 1.04
     },
     {
       "symbol": "DOW",
       "name": "Dow Jones",
-      "value": "51.501,8",
-      "changePct": -0.04
+      "value": "51.285,7",
+      "changePct": -0.46
     },
     {
       "symbol": "DAX",
@@ -47,7 +47,7 @@
       "symbol": "USD/BRL",
       "name": "Dólar",
       "value": "5,50",
-      "changePct": 0.22
+      "changePct": 0.16
     }
   ]
 }
