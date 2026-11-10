@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:45:30.025929+00:00",
+  "updatedAt": "2026-11-10T03:53:38.044084+00:00",
   "indices": [
     {
       "symbol": "IBOV",
@@ -40,14 +40,14 @@
     {
       "symbol": "NIKKEI",
       "name": "Nikkei 225",
-      "value": "58.775,5",
-      "changePct": 2.38
+      "value": "60.059,4",
+      "changePct": 2.23
     },
     {
       "symbol": "USD/BRL",
       "name": "Dólar",
       "value": "5,51",
-      "changePct": 0.21
+      "changePct": 0.0
     }
   ]
 }
