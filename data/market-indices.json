@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-26T20:42:29.545355+00:00",
+  "updatedAt": "2026-11-27T03:17:16.938509+00:00",
   "indices": [
     {
       "symbol": "IBOV",
       "name": "Ibovespa",
-      "value": "174.995,0",
-      "changePct": 5.0
+      "value": "176.800,0",
+      "changePct": 6.08
     },
     {
       "symbol": "S&P 500",
@@ -40,14 +40,14 @@
     {
       "symbol": "NIKKEI",
       "name": "Nikkei 225",
-      "value": "57.499,2",
-      "changePct": 0.67
+      "value": "58.172,0",
+      "changePct": 1.27
     },
     {
       "symbol": "USD/BRL",
       "name": "Dólar",
-      "value": "5,69",
-      "changePct": -2.34
+      "value": "5,65",
+      "changePct": -0.0
     }
   ]
 }
