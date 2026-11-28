@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T20:28:41.963370+00:00",
+  "updatedAt": "2026-11-28T02:53:02.113097+00:00",
   "indices": [
     {
       "symbol": "IBOV",
       "name": "Ibovespa",
-      "value": "177.154,4",
-      "changePct": 1.92
+      "value": "176.573,3",
+      "changePct": 1.59
     },
     {
       "symbol": "S&P 500",
@@ -46,8 +46,8 @@
     {
       "symbol": "USD/BRL",
       "name": "Dólar",
-      "value": "5,52",
-      "changePct": -2.4
+      "value": "5,65",
+      "changePct": -0.02
     }
   ]
 }
